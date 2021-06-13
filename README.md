@@ -1,6 +1,9 @@
 # SunnydayUmbrellaStand.github.io
 This is for my Apps
 
+https://8cjo.yodo1.app/
+https://g2zz.yodo1.app/
+
 Privacy Policy
 
 SunnydayUmbrellaStand built the app as a Free app. This SERVICE is provided by SunnydayUmbrellaStand at no cost and is intended for use as is.
